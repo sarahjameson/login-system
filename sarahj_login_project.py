@@ -5,7 +5,7 @@ import hashlib, uuid
 db = mysql.connect(
     host = "127.0.0.1",
     user = "root",
-    password = "Sugarboom1",
+    password = "",
     database = "login_project"
 )
 
